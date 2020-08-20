@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Header from './components/Header';
 import './App.css';
-import Api from './services/api';
 import api from './services/api';
 
 export default function App() {
